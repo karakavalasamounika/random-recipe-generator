@@ -1,0 +1,26 @@
+.text-center{
+    text-align: center;
+}
+body{
+    margin:auto;
+}
+.container {
+    display: block;
+    text-align: center;
+    padding-top:auto;
+    margin-top:50px;
+}
+#mealId
+{
+    text-align: left;
+}
+#div1,#div2{
+    padding-top: 20px;
+    float: right;
+    width: 55%;
+}
+
+#div3,#div4{
+    padding-top: 20px;
+    width: 35%;
+}
