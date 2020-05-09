@@ -164,7 +164,7 @@ function display(n)
     listItems.innerHTML=e;
     let k=meals[n]["mealImage"];
     let fo="";
-    fo+="<img src="+"\""+ k+"\""+" style=\"height: 400px;width: 400px;\">";
+    fo+="<img src="+"\""+ k+"\""+" style=\"height: 100%;width: 100%;\">";
     console.log(fo);
     mealImg.innerHTML=fo;
    /* chi=show_image(k, 
